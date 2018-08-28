@@ -1,0 +1,13 @@
+name: tuimage
+# author: Apple Princess <appleprincess@appleprincess.io>
+# liccense: MIT
+
+dependencies:
+  - base >= 4.8 && < 5
+
+library:
+  source-dirs: src
+
+# executable:
+  # source-dirs: app
+  # main: Main.hs
