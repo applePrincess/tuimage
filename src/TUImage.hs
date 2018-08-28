@@ -6,8 +6,8 @@ import Data.Word
 fileSignature :: String
 fileSignature = "TUI "
 
-version :: Word8
-version = 1
+version :: Char
+version = '1'
 
 type Type = Word8
 
